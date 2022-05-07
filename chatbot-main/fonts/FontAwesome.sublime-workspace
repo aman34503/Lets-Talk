@@ -1,0 +1,791 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ht",
+				"http"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"t",
+				"text-decoration"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"cl",
+				"className"
+			],
+			[
+				"p",
+				"prototype"
+			],
+			[
+				"e",
+				"event"
+			],
+			[
+				"a",
+				"add"
+			],
+			[
+				"dr",
+				"dropdown"
+			],
+			[
+				"drop",
+				"dropdowArray"
+			],
+			[
+				"bt",
+				"btnSave"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"list",
+				"list-date"
+			],
+			[
+				"l",
+				"listed"
+			],
+			[
+				"i",
+				"innerHTML"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ro",
+				"row-reverse"
+			],
+			[
+				"fl",
+				"flex-flow"
+			],
+			[
+				"sp",
+				"space-between"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"m",
+				"main\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"al",
+				"alarmTimer"
+			],
+			[
+				"g",
+				"get\tGet Elements"
+			],
+			[
+				"se",
+				"setAlarm"
+			],
+			[
+				"ala",
+				"alarmOptions"
+			],
+			[
+				"alarm",
+				"alarmSound"
+			],
+			[
+				"stp",
+				"Stop"
+			],
+			[
+				"fu",
+				"fun\tFunction"
+			],
+			[
+				"ge",
+				"getUTCDate"
+			],
+			[
+				"get",
+				"getUTCFullMonth"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"add",
+				"addressbook"
+			],
+			[
+				"st",
+				"stringify"
+			],
+			[
+				"loca",
+				"localStorage"
+			],
+			[
+				"re",
+				"remID"
+			],
+			[
+				"de",
+				"delbutton"
+			],
+			[
+				"s",
+				"showAddressBook"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"addb",
+				"addbook"
+			],
+			[
+				"lo",
+				"localStorage"
+			],
+			[
+				"address",
+				"addressBook"
+			],
+			[
+				"qu",
+				"quickAddFormDiv"
+			],
+			[
+				"addr",
+				"address"
+			],
+			[
+				"bloo",
+				"bloodact3scene2"
+			],
+			[
+				"blo",
+				"bloodact2scene1"
+			],
+			[
+				"bl",
+				"bloodact1scene1"
+			],
+			[
+				"BLOO",
+				"bloodact1scene2"
+			],
+			[
+				"women",
+				"women5"
+			],
+			[
+				"concu",
+				"concubinecharacters"
+			],
+			[
+				"conb",
+				"concubinethemes"
+			],
+			[
+				"con",
+				"concubine1_30"
+			],
+			[
+				"ha",
+				"harvest8"
+			],
+			[
+				"harvest",
+				"harvest2"
+			],
+			[
+				"people",
+				"people13"
+			],
+			[
+				"peol",
+				"people12"
+			],
+			[
+				"peop",
+				"people9"
+			],
+			[
+				"pe",
+				"people8"
+			],
+			[
+				"peopl",
+				"people6"
+			],
+			[
+				"je",
+				"jewelcharacters"
+			],
+			[
+				"j",
+				"jewelthemes"
+			],
+			[
+				"voice",
+				"voicesDropdown"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"pi",
+				"pitchslider"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"volume",
+				"volumeSlider"
+			],
+			[
+				"voi",
+				"voiceMap"
+			],
+			[
+				"ra",
+				"rateSlider"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"box-",
+				"box-shadow"
+			],
+			[
+				"tr",
+				"translate"
+			],
+			[
+				"half",
+				"half27"
+			],
+			[
+				"half2",
+				"half25"
+			],
+			[
+				"hal",
+				"half17"
+			],
+			[
+				"purpl",
+				"purplethemes"
+			],
+			[
+				"pur",
+				"purplecharacters"
+			],
+			[
+				"purple1",
+				"purple17"
+			],
+			[
+				"pu",
+				"purple4"
+			],
+			[
+				"ame",
+				"americanahthemes"
+			],
+			[
+				"amer",
+				"americanahthemes"
+			],
+			[
+				"am",
+				"americanah5_7"
+			],
+			[
+				"nolonger",
+				"nolongerthemes"
+			],
+			[
+				"nol",
+				"nolongercharacters"
+			],
+			[
+				"NOLO",
+				"nolonger15_16"
+			],
+			[
+				"nolon",
+				"nolonger12"
+			],
+			[
+				"no",
+				"nolonger9"
+			],
+			[
+				"nolo",
+				"nolonger10"
+			],
+			[
+				"n",
+				"nolonger3"
+			],
+			[
+				"mo",
+				"motherhoodsymbols"
+			],
+			[
+				"mot",
+				"motherhood17"
+			],
+			[
+				"mother",
+				"motherhood17"
+			],
+			[
+				"moth",
+				"motherhood16"
+			],
+			[
+				"death",
+				"deaththemes"
+			],
+			[
+				"native",
+				"nativethemes"
+			],
+			[
+				"nat",
+				"nativeson3"
+			],
+			[
+				"na",
+				"nativeson1"
+			],
+			[
+				"charact",
+				"characters"
+			],
+			[
+				"ex",
+				"examquestions"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "Snippet: ",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/USER/Desktop/mynotebookapp/note.html",
+		"/C/Users/USER/Desktop/my notebook app/app.js",
+		"/C/Users/USER/Desktop/mynotebookapp/time.html",
+		"/C/Users/USER/Desktop/my notebook app/ty.html",
+		"/C/Users/USER/Desktop/my notebook app/index.html",
+		"/C/Users/USER/Desktop/mynotebookapp/time.js",
+		"/C/Users/USER/Desktop/29_Alarm Clock/Alarm/Alarm Clock.html",
+		"/C/Users/USER/Desktop/todoapp/index.html",
+		"/C/Users/USER/Desktop/new app/mynotebookapp/note.html",
+		"/C/Users/USER/Desktop/my notebook app/save.html",
+		"/C/Users/USER/Desktop/my notebook app/style.css",
+		"/C/Users/USER/Desktop/ALL/addressbook app/addressbook.js",
+		"/C/Users/USER/Desktop/ALL/addressbook app/notebook.html",
+		"/C/Users/USER/Desktop/ALL/addressbook app/css/main.css",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/may6_study18.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/may13_study19.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/may20_study20.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/may27_study21.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/study54.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/study53.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/dec30_study52.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/dec23_study51.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/dec16_study50.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/dec9_study49.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/dec2_study48.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/nov25_study47.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/nov18_study46.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/nov11_study45.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/nov4_study44.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/oct28_study43.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/oct21_study42.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/oct14_study41.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/oct7_study40.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/sep30_study39.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/sep23_study38.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/sep16_study37.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/sep9_study36.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/sep2_study35.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/aug26_study34.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/aug19_study33.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/aug12_study32.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/aug5_study31.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/jul29_study30.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/jul22_study29.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/jul15_study28.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/jul8_study27.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/jul1_study26.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/jun24_study25.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/jun17_study24.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/jun10_study23.html",
+		"/C/Users/USER/Desktop/blue/yoruba/yoruba/jun3_study22.html",
+		"/C/Users/USER/Documents/Camtasia Studio/phone advert1/skins/overlay/spritesheet.min.css",
+		"/C/Users/USER/Desktop/todoapp/support.html",
+		"/C/Users/USER/Desktop/todoapp/support (2).html",
+		"/C/Users/USER/Desktop/todoapp/index - Copy.html",
+		"/C/Users/USER/Desktop/addressbook app/address.html",
+		"/C/Users/USER/Desktop/addressbook app/addressbook.js",
+		"/C/Users/USER/Desktop/blue/www/www/index.html",
+		"/C/Users/USER/Desktop/todoapp/js/main.js",
+		"/C/Users/USER/Desktop/todoapp/js/alarm.js",
+		"/C/Users/USER/Desktop/todoapp/js/alarm.html",
+		"/C/Users/USER/Desktop/todoapp/css/style.css",
+		"/C/Users/USER/Desktop/ALL/template/NiceSimpleContactForm/contactme.html",
+		"/C/Users/USER/Desktop/my app/assets/css/main.css",
+		"/C/Users/USER/Desktop/ALL/practical web/Rocket Design Starter Files/style.css",
+		"/C/Users/USER/Desktop/my app/jun17_study24.html",
+		"/C/Users/USER/Desktop/my app/jun3_study22.html",
+		"/C/Users/USER/Desktop/New folder/may13_study19.html",
+		"/C/Users/USER/Desktop/New folder/may6_study18.html",
+		"/C/Users/USER/Desktop/New folder/may20_study20.html",
+		"/C/Users/USER/Desktop/New folder/may27_study21.html",
+		"/C/Users/USER/Desktop/ALL/template/NiceSimpleContactForm/style.css",
+		"/C/Users/USER/Desktop/my app/assets/css/font-awesome.min.css",
+		"/C/Users/USER/Desktop/my app/jun10_study23.html",
+		"/C/Users/USER/Desktop/my app/jun24_study25.html",
+		"/C/Users/USER/Desktop/todoapp/css/reset.css",
+		"/C/Users/USER/Desktop/todoapp/reset.css",
+		"/C/Users/USER/Desktop/blue/main. js.doc",
+		"/C/Users/USER/Desktop/my app/americannah.html",
+		"/C/Users/USER/Desktop/my app/americanah3.html",
+		"/C/Users/USER/Desktop/addressbook app/addressbook.css",
+		"/C/Users/USER/Desktop/address.html",
+		"/C/Users/USER/Desktop/addressbook.js",
+		"/C/Users/USER/Desktop/my app/harvestthemes.html",
+		"/C/Users/USER/Desktop/my app/jewel.html",
+		"/C/Users/USER/Downloads/texttospeech.html",
+		"/C/Users/USER/Desktop/my app/purple15.html",
+		"/C/Users/USER/Desktop/my app/characters.html",
+		"/C/Users/USER/Desktop/my app/chapter25.html",
+		"/C/Users/USER/Desktop/my app/motherhood10.html",
+		"/C/Users/USER/Desktop/my app/chapter 7.html",
+		"/C/Users/USER/Desktop/my app/thingsfallapart.html",
+		"/C/Users/USER/Desktop/my app/jan28_study4.html",
+		"/C/Users/USER/Desktop/my app/jan7_study1.html",
+		"/C/Users/USER/Desktop/Untitled-1.jpg",
+		"/C/Users/USER/Desktop/CBT BY KINGZMEN/js.js",
+		"/C/Users/USER/Desktop/CBT BY KINGZMEN/index.sublime-workspace",
+		"/C/Users/USER/Desktop/CBT BY KINGZMEN/index.html",
+		"/C/Users/USER/Desktop/CBT BY KINGZMEN/cbt.js",
+		"/C/Users/USER/Desktop/practical layout/css/styles.css",
+		"/C/Users/USER/Desktop/practical layout/index.html",
+		"/C/Users/USER/Desktop/CBT BY KINGZMEN/css/styles.css",
+		"/C/Users/USER/Desktop/CBT BY KINGZMEN/cbt.html",
+		"/C/Users/USER/Desktop/CBT BY KINGZMEN/time_up.html",
+		"/C/Users/USER/Desktop/index.html",
+		"/C/Users/USER/Desktop/ALL/Rocket-Design-Starter-Files/Rocket Design Starter Files/index.html",
+		"/C/Users/USER/Desktop/ALL/Rocket-Design-Starter-Files/Rocket Design Starter Files/style.css",
+		"/C/Users/USER/Desktop/myweb/index.html",
+		"/C/Users/USER/Desktop/Rocket-Design-Starter-Files/Rocket Design Starter Files/index.html",
+		"/C/Users/USER/Desktop/myweb/css/styles.css",
+		"/C/Users/USER/Desktop/Rocket-Design-Starter-Files/Rocket Design Starter Files/style.css"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "FontAwesome.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
