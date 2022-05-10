@@ -1,0 +1,153 @@
+body{
+	background: radial-gradient( #117c8f,#21e4ee);
+
+	font-family:"Open Sans", sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+h1{
+	font-size: 20px;
+	font-weight: bolder;
+	border: 3px solid #fff;
+	padding: 10px 50px;
+	margin-bottom: 10px;
+}
+ #major{
+	color: red;
+	text-align: left;
+	font-size: 12px;
+	 
+
+}
+ #major2{
+	color: red;
+	text-align: left;
+	font-size: 12px;
+	display: none;
+
+}
+#indicator1{
+	display: inline;
+	cursor: pointer;
+	font-size: 11px;
+	padding: 6px;
+	color: red;
+}
+#indicator2{
+	display: inline;
+	cursor: pointer;
+	padding: 6px;
+	font-size: 11px;
+}
+#indicator3{
+	display: inline;
+	cursor: pointer;
+	padding: 6px; 
+	font-size: 11px;
+}
+#indicator4{
+	display: inline;
+	cursor: pointer;
+	padding: 6px; 
+	font-size: 11px;
+}
+#indicator5{
+	display: inline;
+	cursor: pointer;
+	padding: 6px; 
+	font-size: 11px;
+}
+
+#checker{
+	color: white;
+	font-size: 12px;
+	text-align: center;
+	border-bottom: 2px solid #0eb2c1;
+
+}
+#checker1{
+	color: white;
+	font-size: 12px;
+	text-align: center;
+	display: none;
+	border-bottom: 2px solid #0eb2c1;
+}
+#checker2{
+	color: white;
+	font-size: 12px;
+	text-align: center;
+	display: none;
+	border-bottom: 2px solid #0eb2c1;
+}
+#checker3{
+	color: white;
+	font-size: 12px;
+	text-align: center;
+	display: none;
+	border-bottom: 2px solid #0eb2c1;
+}
+#checker4{
+	color: white;
+	font-size: 12px;
+	text-align: center;
+	display: none;
+	border-bottom: 2px solid #0eb2c1;
+}
+#major3{
+	color: red;
+	text-align: left;
+	font-size: 12px;
+	display: none;
+
+}
+#major4{
+	color: red;
+	text-align: left;
+	font-size: 12px;
+	display: none;
+
+}
+#major5{
+	color: red;
+	text-align: left;
+	font-size: 12px;
+	display: none;
+
+}
+
+#topic{
+	border-bottom: 2px solid #0eb2c1;
+	font-size: 13px;
+	 
+	color: white;
+	font-weight: bold;
+}
+
+ 
+
+#result{
+	font-size: 24px;
+	color: #fff;
+	font-family: 'bookman old style';
+}
+
+#ans{
+	color: #fff;
+	padding:10px;
+	font-size: 20px;
+	background: transparent;
+	border: 1px solid  #1ddced;
+}
+#ans:focus{
+	outline:0;
+	outline-offset: 0;
+}
+
+
+
+	 
+
+     
+
+ 

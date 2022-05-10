@@ -1,0 +1,1339 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: tahoma, sans-serif;
+	box-sizing: border-box;
+}
+
+body {
+	background: radial-gradient(45deg , #117c8f,#21e4ee);
+}
+#center{
+	text-align: center;
+	 
+}
+#details{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+
+}
+
+#details1{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+	 
+}
+#details2{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-weight: 100px;
+	font-family: 'bookman old style';
+
+}
+#details3{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details4{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details5{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details6{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details7{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details8{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details9{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details10{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details11{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details12{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details13{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details14{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details15{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details16{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details17{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details18{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details19{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details20{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details21{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details22{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details23{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details24{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details25{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details26{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details27{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details28{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details29{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details30{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details31{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details32{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details33{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details34{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details35{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details36{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details37{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+
+#details38{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+
+#details39{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+
+#details40{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details41{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details42{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details43{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details44{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details45{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details46{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details47{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details48{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details49{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details50{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details51{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details52{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details53{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details54{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details55{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details56{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details57{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details58{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details59{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details60{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details61{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details62{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details63{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details64{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details65{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details66{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details67{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details68{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details69{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details70{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details71{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details72{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details73{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details74{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details75{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details76{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details77{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details78{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details79{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details80{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details81{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details82{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details83{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details84{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details85{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details86{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details87{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details88{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details89{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details90{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+#details91{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 15px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+
+#symptoms1{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 13px;
+	text-align: justify;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+
+#symptoms2{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 13px;
+	text-align: left;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+
+#symptoms3{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 13px;
+	text-align: left;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+
+#symptoms4{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 13px;
+	text-align: left;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+
+#symptoms5{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 13px;
+	text-align: left;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+
+#symptoms6{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 13px;
+	text-align: left;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+
+#symptoms7{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 13px;
+	text-align: left;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+
+#symptoms8{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 13px;
+	text-align: left;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+
+#symptoms9{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 13px;
+	text-align: left;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+
+#symptoms10{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 13px;
+	text-align: left;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+
+#symptoms11{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 13px;
+	text-align: left;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+
+#symptoms12{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 13px;
+	text-align: left;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+
+#symptoms13{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 13px;
+	text-align: left;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+
+#symptoms14{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 13px;
+	text-align: left;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+
+#symptoms15{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 13px;
+	text-align: left;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+
+#symptoms16{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 13px;
+	text-align: left;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+
+#symptoms17{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 13px;
+	text-align: left;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+
+#symptoms18{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 13px;
+	text-align: left;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+
+#symptoms19{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 13px;
+	text-align: left;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+
+#symptoms20{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 13px;
+	text-align: left;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+
+#symptoms21{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 13px;
+	text-align: left;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+
+#symptoms22{
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+	font-size: 13px;
+	text-align: left;
+	padding: 8px;
+	font-family: 'bookman old style';
+	font-weight: 100px;
+
+}
+
+
+
+#chatbox {
+	width: 500px;
+	 
+	height: 400px;
+	background: transparent;
+	padding: 25px;
+	margin: 20px auto;
+	backdrop-filter: blur(45px);
+    box-shadow: 0 25px 45px rgb(0,0,0,0.1);
+    border: 1px solid rgb(255,255,255,0.5);
+    border-right: 1px solid rgb(255,255,255,0.2);
+    border-bottom: 1px solid rgb(255,255,255,0.2);
+}
+
+.chatlogs {
+	padding: 10px;
+	width: 100%;
+	height: 450px;
+	overflow-x: hidden;
+	overflow-y: scroll;
+}
+
+.chatlogs::-webkit-scrollbar {
+	width: 10px;
+}
+
+.chatlogs::-webkit-scrollbar-thumb {
+	border-radius: 5px;
+	background: rgba(0,0,0,.1);
+}
+
+.chat {
+	display: flex;
+	flex-flow: row wrap;
+	align-items: flex-start;
+	margin-bottom: 10px;
+}
+ 
+
+
+
+.chat .user-photo {
+	width: 60px;
+	height: 60px;
+	 
+	border-radius: 50%;
+	
+
+}
+
+.chat .chat-message {
+	width: 80%;
+	padding: 15px;
+	margin: 5px 10px 0;
+	border-radius: 10px;
+	color: #fff;
+	font-size: 20px;
+	text-align: center;
+
+
+	  
+
+}
+
+.friend .chat-message {
+	background: #1adda4;
+}
+
+.self .chat-message {
+	background: #1ddced;
+	order: -1;
+}
+
+.chat-form {
+	margin-top: 20px;
+	display: flex;
+	align-items: flex-start;
+}
+
+.chat-form textarea {
+	background: #fbfbfb;
+	width: 75%;
+	height: 50px;
+	border: 2px solid #eee;
+	border-radius: 3px;
+	resize: none;
+	padding: 10px;
+	font-size: 18px;
+	color: #333;
+}
+
+.chat-form textarea:focus {
+	background: #fff;
+}
+
+#submit {
+	background: pink;
+	padding: 5px 15px;
+	font-size: 30px;
+	color: #fff;
+	border: none;
+	margin: 15px 10px;
+	border-radius: 3px;
+	box-shadow: 0 3px 0 transparent;
+	cursor: pointer;
+
+	-webkit-transaction: background .2s ease;
+	-moz-transaction: backgroud .2s ease;
+	-o-transaction: backgroud .2s ease;
+}
+
+ #submit:hover {
+	background: #13c8d9;
+}
+#main1{
+		width: 500px;
+	 
+	height: 400px;
+	background: #fff;
+	padding: 25px;
+	margin: 20px auto;
+	box-shadow: 0 3px #ccc;
+	 
+
+}
+#input{
+	background: #fbfbfb;
+	width: 75%;
+	height: 50px;
+	border: 1px solid #1ddced;
+	border-radius: 3px;
+	resize: none;
+	padding: 10px;
+	font-size: 18px;
+	color: #333;
+}
+
+@media screen and (max-width: 459px) {
+	#chatbox {
+	width: 100%;
+
+}
+#main1{
+	width: 100%;
+}
+.chat .chat-message {
+	width: 100%;
+
+	}
+	.chat .user-photo {
+		width: 100%;
+	}
+	 
+
+     
+
+}
